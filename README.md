@@ -1,3 +1,3 @@
 # ilksayfa2
 
-![ekran görünümü](img/sitegörünüm.png)
+![ekran görünümü](https://github.com/umtcngl/ilksayfa2/blob/main/img/sitegörünüm.png)
